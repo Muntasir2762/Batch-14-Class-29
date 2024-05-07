@@ -1,0 +1,39 @@
+
+======Loop=====
+
+ for(i=0; i<marks.length; i++){
+     console.log(marks[i]);
+ }
+
+initialize
+while(range/condition){
+    Statement...
+    increment/decrement
+}
+
+
+initialize
+do{
+    Statement...
+    increment/decrement
+}
+
+while(range/condition);
+
+
+
+let marks = [50, 40, 98, 99];
+
+marks.forEach(element=>{
+    console.log(element);
+})
+
+
+=======Function======
+
+function name(parametre){
+    Function Body
+
+    return
+}
+
